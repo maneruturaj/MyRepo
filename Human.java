@@ -4,7 +4,7 @@ public class Human
 {
 	void work()
 	{
-		System.out.println("Humancan work");
+		System.out.println("Hard  work is Good work");
 	}
 }
 class Engineer extends Human 
